@@ -1,0 +1,20 @@
+/* comment */
+
+/* delete style li tag */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.no-style-ul-li{
+    list-style-type: none;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+.text-header{
+    color: white;
+}
+

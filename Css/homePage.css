@@ -1,0 +1,30 @@
+
+.row{
+    padding: 0;
+    margin: 0;
+}
+.menu-header{
+    display: flex;
+    background-color: black;
+    justify-content: end;
+    margin: 0px;
+    font-size: 15px;
+    padding: 0px 16px 0px 16px;
+    height: 30px;
+    font-family: NunitoSanRegular;
+}
+.menu-header li{
+    margin: 0px 15px 0px 15px;
+}
+.menu-header li a{
+    display: flex;
+}
+
+.menu-header li a div{ 
+    margin-top: 5px;
+}
+
+.img-header{
+    padding-right: 6px;
+    padding-top: 4px;
+}
